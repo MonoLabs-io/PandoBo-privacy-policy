@@ -33,6 +33,6 @@
   <p>We may update this policy. Updates will be reflected on this page.</p>
 
   <h2>8. Contact</h2>
-  <p>Email us at: yourname@example.com</p>
+  <p>Email us at: monolabs101@gmail.com</p>
 </body>
 </html>
