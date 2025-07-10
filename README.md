@@ -1,4 +1,3 @@
-</head>
 <body>
   <h1>PandoBo! - Privacy Policy</h1>
   <p><strong>Effective Date:</strong> July 10, 2025</p>
