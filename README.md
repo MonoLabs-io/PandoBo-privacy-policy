@@ -1,7 +1,3 @@
-
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
-    h1, h2 { color: #333; }
-  </style>
 </head>
 <body>
   <h1>PandoBo! - Privacy Policy</h1>
