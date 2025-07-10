@@ -1,15 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Pandobo Privacy Policy</title>
-  <style>
+
     body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; line-height: 1.6; }
     h1, h2 { color: #333; }
   </style>
 </head>
 <body>
-  <h1>Privacy Policy – PandoBo!</h1>
+  <h1>PandoBo! - Privacy Policy</h1>
   <p><strong>Effective Date:</strong> July 10, 2025</p>
 
   <h2>1. Information We Collect</h2>
